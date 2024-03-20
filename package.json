@@ -1,0 +1,33 @@
+{
+  "name": "kindergarden-w-tool",
+  "version": "1.0.0",
+  "description": "Manage projects with a kindergarden tool, simplifying project management tasks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thermal08roosts/kindergarden-w-tool"
+  },
+  "author": "thermal08roosts",
+  "license": "MIT",
+  "dependencies": {
+    "lullaby-harmony-tool": "1.0.0",
+    "kindergarden-w-tool": "1.0.0",
+    "solc": "1.0.0",
+    "react-dom": "1.0.0",
+    "bcrypt": "1.0.0",
+    "chalk": "1.0.0",
+    "socket.io": "1.0.0",
+    "firebase": "1.0.0",
+    "validator": "1.0.0",
+    "passport": "1.0.0",
+    "ejs": "1.0.0",
+    "multer": "1.0.0",
+    "enzyme": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "nodemon": "1.0.0",
+    "moment": "1.0.0"
+  }
+}
